@@ -1,4 +1,6 @@
-# ![](media/logo.svg)
+<h1 align="center">
+    <img src="https://rawgit.com/antleblanc/setup/master/media/logo.svg" alt="setup">
+</h1>
 
 > Setup a new  MacBook Pro.
 
