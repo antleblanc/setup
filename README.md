@@ -60,6 +60,10 @@ $ gem install hpricot
 - [Cătălin’s dotfiles](https://github.com/alrra/dotfiles)
 - https://github.com/nicolashery/mac-dev-setup
 
+## Related
+
+- [antleblanc’ dotfiles](https://github.com/antleblanc/dotfiles).
+
 ## Credits
 
 Gears by [Alban Champliau](https://thenounproject.com/alban.champliau/).
