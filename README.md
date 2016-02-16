@@ -48,7 +48,6 @@ $ \curl -sSL https://get.rvm.io | bash -s stable --ruby
 Ruby gems
 
 ```sh
-$ gem install scss_lint
 $ gem install premailer
 $ gem install hpricot
 ```
