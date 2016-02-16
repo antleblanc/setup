@@ -30,12 +30,16 @@ brew cask install vagrant-manager
 
 # others
 brew cask install appcleaner
+brew cask install caprine
 brew cask install deezer
 brew cask install deluge
+brew cask install hipchat
 brew cask install hubic
 brew cask install libreoffice
 brew cask install skype
+brew cask install slack
 brew cask install sonos
+brew cask install spotify
 brew cask install teamviewer
 brew cask install the-unarchiver
 brew cask install viber
