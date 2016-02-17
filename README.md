@@ -20,6 +20,12 @@ $ xcode-select --install
 
 ## Installation
 
+### OS X
+
+```sh
+$ ./shell/osx.sh
+```
+
 ### Homebrew
 
 ```sh
