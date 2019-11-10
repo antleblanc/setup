@@ -12,8 +12,6 @@ npm install --global xo
 npm install --global mocha
 npm install --global csslint
 npm install --global eslint
-npm install --global jscs
-npm install --global jshint
 npm install --global generator-generator
 npm install --global generator-webapp
 npm install --global generator-polymer
