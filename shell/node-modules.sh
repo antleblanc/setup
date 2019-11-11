@@ -10,7 +10,6 @@ npm install --global gulp-cli
 npm install --global ava
 npm install --global xo
 npm install --global mocha
-npm install --global csslint
 npm install --global eslint
 npm install --global generator-generator
 npm install --global generator-webapp
