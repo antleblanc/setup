@@ -15,4 +15,3 @@ npm install --global generator-generator
 npm install --global generator-webapp
 npm install --global generator-polymer
 npm install --global generator-electron
-npm install --global generator-htmlemail
