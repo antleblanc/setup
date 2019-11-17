@@ -6,7 +6,7 @@
 
 ## Software update
 
-OS X Software Updates
+macOS Software Updates
 
 ```sh
 $ sudo softwareupdate -i -a;
@@ -20,10 +20,10 @@ $ xcode-select --install
 
 ## Installation
 
-### OS X
+### macOS
 
 ```sh
-$ ./shell/osx.sh
+$ ./shell/macos.sh
 ```
 
 ### Homebrew
