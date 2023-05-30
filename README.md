@@ -75,4 +75,4 @@ Gears by [Alban Champliau](https://thenounproject.com/alban.champliau/).
 
 ## License
 
-MIT © [Antoine Leblanc](https://antleblanc.me)
+MIT © [Antoine Leblanc](https://antleblanc.com)
